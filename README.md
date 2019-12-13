@@ -1,1 +1,1 @@
-Rock Paper Scissor game in Console.
+Basic Rock Paper Scissors game
